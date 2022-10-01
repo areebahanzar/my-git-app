@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I am trying to figure out how to connect the backend to github. This is the front end... :(
         </p>
         <a
           className="App-link"
